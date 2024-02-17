@@ -1,4 +1,4 @@
- 
+### why tf is this in ts
 
 
 > Open this page at [https://vivolev647.github.io/poke-1800s/](https://vivolev647.github.io/poke-1800s/)
